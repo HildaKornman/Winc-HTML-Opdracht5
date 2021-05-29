@@ -47,11 +47,11 @@ a:hover, a:active{
 img, main{
     margin:5px 50px 0 25px;
     }
-form input, button {
+/*form input, button {
     color:grey;
     font-style:italic;
     margin-top:10px;
-}
+}*/
 aside, footer{
     text-align:center;
     font-size:11px;
